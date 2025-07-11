@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m kizio
 
-<!--
-**kizio806/kizio806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm a beginner developer passionate about **JavaScript** and backend development.  
+🤖 I create Discord bots and backend solutions for web projects.  
+💻 Currently learning more about APIs and automation.  
+🎯 Always curious and improving my coding skills.  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- 🟨 JavaScript (Node.js)
+- 🛠️ Backend: Express.js, REST APIs
+- 🤖 Discord.js
+- ☁️ Tools: PM2, dotenv
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Discord: [`_kizio_`](https://discord.com/users/942076606179078175)  
+- GitHub: [kizio](https://github.com/kizio806)
+
+---
+
+![kizio’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kizio806&show_icons=true&theme=radical)
