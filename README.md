@@ -16,7 +16,3 @@
 ## 📫 Contact
 - Discord: [`_kizio_`](https://discord.com/users/942076606179078175)  
 - GitHub: [kizio](https://github.com/kizio806)
-
----
-
-![kizio’s GitHub stats](https://github-readme-stats.vercel.app/api?username=kizio806&show_icons=true&theme=radical)
