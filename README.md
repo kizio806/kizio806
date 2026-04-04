@@ -1,25 +1,77 @@
 # 👋 Hi, I’m kizio
 
-I’m a beginner developer focused on **JavaScript** and backend work.  
-I build Discord bots and backend services for web projects, and I’m actively improving my skills.
+I’m a full-stack developer focused on building scalable backend systems, web applications, and Discord bots.  
+I work mainly with the JavaScript/TypeScript ecosystem and enjoy creating complete solutions — from APIs to deployment.
 
-## ✅ What I Do
-- Build backend APIs and services
-- Create Discord bots with automation and integrations
-- Learn and experiment with new tools and workflows
+---
 
-## 🚀 Tech Stack
-- **Languages:** JavaScript (Node.js), Java
-- **Backend:** Express.js, REST APIs
-- **Bots:** Discord.js
-- **Infrastructure:** Docker, Docker Compose
-- **Dev Tools:** PM2, dotenv
-- **Interests:** Automation, API integrations, Minecraft modding
+## 🚀 What I Do
 
-## 📌 Currently Learning
-- API design and automation
-- Java fundamentals for Minecraft modding
+- Build full-stack applications (backend + frontend + infrastructure)
+- Develop advanced Discord bots with integrations and automation
+- Create custom solutions for clients (websites, bots, systems)
+- Work on Minecraft mods & plugins (open source)
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+- TypeScript / JavaScript (Node.js)
+- Java
+
+**Backend & APIs**
+- Express.js
+- REST APIs
+- Redis
+- MongoDB
+
+**Frontend**
+- React
+- Vite
+- Tailwind CSS
+
+**Bots**
+- Discord.js
+
+**Infrastructure & DevOps**
+- Docker & Docker Compose
+- Cloudflare
+- Grafana + Alertmanager
+- PM2
+- Turborepo (monorepo setup)
+
+---
+
+## 🔥 Projects
+
+- **BlintzStore** – full-stack platform (website + backend + Discord bot)
+- Private monorepo projects (bot + backend + frontend systems)
+- Minecraft mods & plugins (available on Modrinth & GitHub)
+
+---
+
+## ⚡ What Makes Me Different
+
+- I build complete systems (not just code, but working products)
+- Fast development with ready-to-use templates
+- Experience with monorepo architecture (Turborepo)
+- Focus on automation and scalable architecture
+- Experience with real deployments and infrastructure
+
+---
+
+## 📦 Currently Working On
+
+- Client projects (websites & Discord bots)
+- Expanding BlintzStore ecosystem
+- Minecraft mods and plugins
+
+---
 
 ## 📫 Contact
+
 - Discord: `_kizio_` (ID: `942076606179078175`)
-- GitHub: `github.com/kizio806`
+- Community / Support: [Discord Server](https://discord.com/invite/M9eqfP49Yy)
+- GitHub: [kizio806](https://github.com/kizio806)
+- Website: [www.blintzstore.pl](https://www.blintzstore.pl)
