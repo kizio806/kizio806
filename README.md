@@ -75,3 +75,4 @@ I work mainly with the JavaScript/TypeScript ecosystem and enjoy creating comple
 - Community / Support: [Discord Server](https://discord.com/invite/M9eqfP49Yy)
 - GitHub: [kizio806](https://github.com/kizio806)
 - Website: [www.blintzstore.pl](https://www.blintzstore.pl)
+- Modrinth: [Kizio Labs](https://modrinth.com/organization/kizio-labs)
