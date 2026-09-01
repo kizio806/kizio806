@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,100:22D3EE&height=120&section=header" width="100%" />
 <div align="center">
 
 # 👋 Hey, I'm Kizio806
@@ -246,10 +245,5 @@ height="170"
 <a href="https://github.com/Kizio806">
   <img src="https://img.shields.io/badge/GitHub-Kizio806-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:7C5CFF&height=100&section=footer" width="100%" />
 
 </div>
