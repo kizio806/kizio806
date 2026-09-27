@@ -2,20 +2,17 @@
 
 # 👋 Hey, I'm Kizio806
 
-### Full-Stack Developer · TypeScript & JavaScript · Discord Bot Developer
+### Full-Stack & Java Developer · Minecraft Mods & Plugins · Discord Bot Developer
 
-Building **modern web applications, backend systems, APIs, Discord bots and real-time infrastructure**.
+Building **modern web applications, backend systems, Minecraft mods & plugins, Discord bots and real-time infrastructure**.
 
 <br/>
 
 <a href="https://modrinth.com/organization/kizio-labs">
-  <img src="https://img.shields.io/badge/Modrith-7C5CFF?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modrinth-Kizio%20Labs-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" />
 </a>
 <a href="https://discord.com/invite/M9eqfP49Yy">
   <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/NPM-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
 <a href="https://github.com/Kizio806">
   <img src="https://img.shields.io/badge/GitHub-Kizio806-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -27,13 +24,25 @@ Building **modern web applications, backend systems, APIs, Discord bots and real
 
 ## 💫 About Me
 
-I'm a **Full-Stack Developer** focused primarily on the TypeScript ecosystem.
+I'm a **Full-Stack & Java Developer** working across web development, backend systems and the Minecraft ecosystem.
 
-I build software across the entire stack — from responsive frontend applications and API design to databases, real-time communication, Discord bots, background jobs and containerized infrastructure.
+I build software across the entire stack — from responsive frontend applications and API design to databases, real-time communication, Discord bots, background jobs, containerized infrastructure and Minecraft server software.
+
+I also develop **Minecraft mods and plugins in Java**, including multi-loader mods, Paper/Folia plugins, server-side systems and reusable tooling.
+
+My work includes projects built for:
+
+* **Fabric**
+* **NeoForge**
+* **Paper**
+* **Purpur**
+* **Folia**
+* **Spigot**
+* **Bukkit**
 
 I also build and maintain **Discord bots and automation systems**, including bots connected to external APIs, databases, queues and real-time services.
 
-My main goal isn't to use the most complicated technology available.
+My goal isn't to use the most complicated technology available.
 
 It's to build systems that are:
 
@@ -43,8 +52,9 @@ It's to build systems that are:
 * 📦 **Scalable**
 * 🧪 **Testable**
 * 🛠️ **Easy to deploy**
+* 🧱 **Well architected**
 
-I enjoy working on projects where **frontend, backend, infrastructure and integrations have to work together as one system.**
+I enjoy projects where **frontend, backend, infrastructure, Minecraft systems and integrations have to work together as one ecosystem.**
 
 ---
 
@@ -91,21 +101,23 @@ Designing APIs, services and real-time systems capable of handling complex appli
 
 <td width="25%" valign="top">
 
-### 🤖 Discord Bots
+### ⛏️ Minecraft Development
 
-Building production-ready Discord bots, automations and integrations.
+Building mods, plugins and server-side systems in Java.
 
-**Discord.js**
+**Java**
 
-**Slash Commands**
+**Fabric**
 
-**Interactions**
+**NeoForge**
 
-**Webhooks**
+**Paper**
 
-**REST APIs**
+**Folia**
 
-**Automations**
+**Spigot / Bukkit**
+
+**Gradle**
 
 </td>
 
@@ -137,9 +149,24 @@ Running applications reliably with containers, caching, queues and modern infras
 ### 💻 Languages & Core
 
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+### ⛏️ Minecraft Development
+
+<p>
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NeoForge-EA5A47?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Paper-2C2C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Purpur-6C4AB6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Folia-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bukkit-CC9966?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
 </p>
 
 ### 🎨 Frontend
@@ -158,7 +185,6 @@ Running applications reliably with containers, caching, queues and modern infras
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
 </p>
@@ -178,6 +204,7 @@ Running applications reliably with containers, caching, queues and modern infras
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/BullMQ-E63946?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
@@ -187,6 +214,7 @@ Running applications reliably with containers, caching, queues and modern infras
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
@@ -194,8 +222,11 @@ Running applications reliably with containers, caching, queues and modern infras
 
 <p>
   <img src="https://img.shields.io/badge/Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeQL-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
@@ -203,6 +234,34 @@ Running applications reliably with containers, caching, queues and modern infras
 
 <p>
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" />
+</p>
+
+---
+
+# 🧱 Minecraft Development
+
+I build Minecraft software under **Kizio Labs**, focusing on maintainability, compatibility and production-ready architecture.
+
+### 🧩 Mods
+
+Multi-loader Minecraft mods developed primarily with:
+
+**Java · Fabric · NeoForge · Gradle**
+
+I work on client-side utilities, gameplay improvements and quality-of-life modifications with support for multiple Minecraft versions and loaders.
+
+### 🔌 Plugins
+
+Server-side Minecraft plugins and systems built for:
+
+**Paper · Purpur · Folia · Spigot · Bukkit**
+
+My plugin development focuses on modular architecture, persistence, asynchronous workloads, event-driven systems, server compatibility and reliable production deployments.
+
+<p align="center">
+  <a href="https://modrinth.com/organization/kizio-labs">
+    <img src="https://img.shields.io/badge/View%20Minecraft%20Projects-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -229,18 +288,15 @@ height="170"
 
 ### 🤝 Let's Build Something
 
-**Web apps · APIs · Discord Bots · Automation · Real-time Systems**
+**Web Apps · APIs · Minecraft Mods · Minecraft Plugins · Discord Bots · Automation · Real-time Systems**
 
 <br/>
 
 <a href="https://modrinth.com/organization/kizio-labs">
-  <img src="https://img.shields.io/badge/Modrith-7C5CFF?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modrinth-Kizio%20Labs-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" />
 </a>
 <a href="https://discord.com/invite/M9eqfP49Yy">
   <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/NPM-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </a>
 <a href="https://github.com/Kizio806">
   <img src="https://img.shields.io/badge/GitHub-Kizio806-181717?style=for-the-badge&logo=github&logoColor=white" />
