@@ -14,6 +14,9 @@ Building **Minecraft software, backend systems and infrastructure projects** wit
 <a href="https://github.com/Kizio806">
 <img src="https://img.shields.io/badge/GitHub-Kizio806-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://discord.com/users/942076606179078175">
+<img src="https://img.shields.io/badge/Discord-kizio-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 <a href="mailto:kizio.contact@gmail.com">
 <img src="https://img.shields.io/badge/Email-kizio.contact%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
@@ -46,7 +49,7 @@ I am the creator of **Kizio Labs**, an open-source organization and project grou
 
 <td width="33%" valign="top">
 
-### Jump Delay Fix
+### [Jump Delay Fix](https://github.com/kizio806/jump-delay-fix)
 
 `Java` `Fabric` `NeoForge`
 
@@ -61,7 +64,7 @@ Lightweight client-side Minecraft mod eliminating artificial jump delays for res
 
 <td width="33%" valign="top">
 
-### Item Display Control
+### [Item Display Control](https://github.com/kizio806/item-display-control)
 
 `Java` `Fabric` `NeoForge`
 
@@ -76,7 +79,7 @@ Client-side Minecraft mod preventing accidental item placements into display fra
 
 <td width="33%" valign="top">
 
-### SpectraEvents
+### [SpectraEvents](https://github.com/kizio806/SpectraEvents)
 
 `Java` `Paper` `Purpur` `Folia` `Spigot` `Bukkit`
 
@@ -94,7 +97,7 @@ High-performance, data-driven 3D event engine for modern Minecraft servers autho
 
 <td width="33%" valign="top">
 
-### Minecraft Network
+### [Minecraft Network](https://github.com/kizio806/minecraft-network)
 
 `Go` `Docker` `Velocity` `PostgreSQL` `Paper`
 
@@ -109,7 +112,7 @@ Production-grade Infrastructure-as-Code (IaC) server network featuring Zero-Trus
 
 <td width="33%" valign="top">
 
-### Gear Progress
+### [Gear Progress](https://github.com/kizio806/GearProgress)
 
 `Java` `Paper` `Purpur` `Folia` `Spigot` `Bukkit`
 
@@ -128,8 +131,6 @@ Modular equipment progression engine for Minecraft SMP servers controlling tier 
 
 </tr>
 </table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -284,6 +285,19 @@ Modular equipment progression engine for Minecraft SMP servers controlling tier 
 
 </table>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kizio806&show_icons=true&theme=github_dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kizio806&show_icons=true&theme=default&hide_border=true">
+  <img alt="Kizio806 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kizio806&show_icons=true&theme=default&hide_border=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kizio806&layout=compact&theme=github_dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kizio806&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kizio806&layout=compact&theme=default&hide_border=true" />
+</picture>
+
 </div>
 
 ---
@@ -299,11 +313,12 @@ Interested in collaborating on **open-source software, Minecraft development and
 <a href="https://modrinth.com/organization/kizio-labs">
 <img src="https://img.shields.io/badge/Modrinth-Kizio%20Labs-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" />
 </a>
-
 <a href="https://github.com/Kizio806">
 <img src="https://img.shields.io/badge/GitHub-Kizio806-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
+<a href="https://discord.com/users/942076606179078175">
+<img src="https://img.shields.io/badge/Discord-kizio-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
 <a href="mailto:kizio.contact@gmail.com">
 <img src="https://img.shields.io/badge/Email-kizio.contact%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
