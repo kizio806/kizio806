@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kizio806
 
-### Java & TypeScript Developer building open-source software and Minecraft ecosystems
+### Java, TypeScript & Go Developer building open-source software and Minecraft ecosystems
 
 Building **Minecraft software, backend systems and infrastructure projects** with a focus on clean architecture, automation and maintainable solutions.
 
@@ -24,18 +24,18 @@ Building **Minecraft software, backend systems and infrastructure projects** wit
 
 ## 👨‍💻 About Me
 
-I'm a **Java and TypeScript developer** focused on building reliable software and open-source projects.
+I'm a **Java, TypeScript and Go developer** focused on building reliable software, backend systems, and open-source projects.
 
-My main area is the **Minecraft ecosystem**, where I develop mods, plugins, server systems and infrastructure tooling.
+My main area is the **Minecraft ecosystem**, where I develop cross-loader mods, high-performance server plugins, and infrastructure tooling. Alongside Minecraft development, I build full-stack TypeScript backend services, Discord bots, and automated deployment systems.
 
 I focus on:
-- clean and modular architecture
-- automated testing and CI/CD
-- maintainable codebases
-- developer-friendly tools
-- self-hosted infrastructure
+- clean and modular architecture (Hexagonal, Ports & Adapters, Domain-Driven Design)
+- automated testing and CI/CD pipelines
+- maintainable and contract-driven codebases
+- developer-friendly tools and management CLIs
+- containerized and self-hosted infrastructure
 
-I am the creator of **Kizio Labs**, an organization focused on open-source Minecraft software and developer projects.
+I am the creator of **Kizio Labs**, an open-source organization and project group focused on Minecraft software, server tools, and developer utilities.
 
 ---
 
@@ -50,13 +50,27 @@ I am the creator of **Kizio Labs**, an organization focused on open-source Minec
 
 `Java` `Fabric` `NeoForge`
 
-Multi-loader Minecraft mod focused on improving jump mechanics with a shared architecture.
+Lightweight client-side Minecraft mod eliminating artificial jump delays for responsive movement and parkour precision.
 
 **Highlights:**
-- Cross-loader core
-- Multi-version support
-- Automated testing
-- CI/CD
+- Zero-tick jump response with adaptive telemetry tuning
+- Shared common core with dedicated Fabric and NeoForge loaders
+- In-game settings GUI, per-server profile memory, and CI/CD
+
+</td>
+
+<td width="33%" valign="top">
+
+### Item Display Control
+
+`Java` `Fabric` `NeoForge`
+
+Client-side Minecraft mod preventing accidental item placements into display frames, armor stands, and interactive blocks.
+
+**Highlights:**
+- Per-target protection with whitelist/blacklist filtering
+- Shared interaction engine with decoupled platform adapters
+- Sneak & adjacent placement bypasses with in-game configuration GUI
 
 </td>
 
@@ -64,31 +78,51 @@ Multi-loader Minecraft mod focused on improving jump mechanics with a shared arc
 
 ### SpectraEvents
 
-`Java` `Paper` `Folia`
+`Java` `Paper` `Purpur` `Folia` `Spigot` `Bukkit`
 
-Minecraft server plugin focused on modular event systems and scalable architecture.
+High-performance, data-driven 3D event engine for modern Minecraft servers authoring world encounters via declarative YAML.
 
 **Highlights:**
-- Modular design
-- Event-driven systems
-- Custom API
-- Quality tooling
+- Declarative event state machines with real-time Blockbench 3D display entities
+- Strict Hexagonal Architecture separating domain logic from server runtimes
+- Native Folia regional multithreading, SQLite crash recovery, and Modrinth CDN
 
 </td>
+
+</tr>
+<tr>
 
 <td width="33%" valign="top">
 
 ### Minecraft Network
 
-`Go` `Shell` `Docker` `YAML`
+`Go` `Docker` `Velocity` `PostgreSQL` `Paper`
 
-Infrastructure project focused on Minecraft server management, automation and deployment.
+Production-grade Infrastructure-as-Code (IaC) server network featuring Zero-Trust security and operational automation.
 
 **Highlights:**
-- Server automation
-- Docker services
-- Configuration management
-- Infrastructure tooling
+- Zero-Trust network topology isolating backend servers behind Velocity proxy
+- Native Go management CLI (`./bin/network`) and companion Discord bot
+- Automated age-encrypted backups, health monitoring, and declarative plugin manifests
+
+</td>
+
+<td width="33%" valign="top">
+
+### Gear Progress
+
+`Java` `Paper` `Purpur` `Folia` `Spigot` `Bukkit`
+
+Modular equipment progression engine for Minecraft SMP servers controlling tier unlocks through configurable schedules.
+
+**Highlights:**
+- Granular restrictions across armor, tools, and elytra with timer and date triggers
+- Hexagonal Architecture (Ports and Adapters) with zero domain-to-platform coupling
+- Dual Paper & Spigot runtime support, Folia schedulers, and SQLite WAL persistence
+
+</td>
+
+<td width="33%" valign="top">
 
 </td>
 
@@ -112,6 +146,7 @@ Infrastructure project focused on Minecraft server management, automation and de
 <code>TypeScript</code>
 <code>JavaScript</code>
 <code>Go</code>
+<code>SQL</code>
 <code>Shell</code>
 
 </td>
@@ -121,7 +156,6 @@ Infrastructure project focused on Minecraft server management, automation and de
 <h3>🎨 Frontend</h3>
 
 <code>React</code>
-<code>Next.js</code>
 <code>Vite</code>
 <code>Tailwind CSS</code>
 <code>HTML</code>
@@ -148,9 +182,10 @@ Infrastructure project focused on Minecraft server management, automation and de
 
 <h3>🗄️ Databases</h3>
 
+<code>PostgreSQL</code>
+<code>SQLite</code>
 <code>MongoDB</code>
 <code>Redis</code>
-<code>PostgreSQL</code>
 
 </td>
 
@@ -164,14 +199,13 @@ Infrastructure project focused on Minecraft server management, automation and de
 
 <code>Fabric</code>
 <code>NeoForge</code>
-<code>Forge</code>
 <code>Paper</code>
-<code>Folia</code>
-<code>Bukkit</code>
-<code>Spigot</code>
 <code>Purpur</code>
+<code>Folia</code>
+<code>Spigot</code>
+<code>Bukkit</code>
+<code>Velocity</code>
 <code>Gradle</code>
-<code>Maven</code>
 
 </td>
 
@@ -186,6 +220,7 @@ Infrastructure project focused on Minecraft server management, automation and de
 <code>GitHub Actions</code>
 <code>CodeQL</code>
 <code>SonarCloud</code>
+<code>Codecov</code>
 
 </td>
 
@@ -199,7 +234,6 @@ Infrastructure project focused on Minecraft server management, automation and de
 
 <code>JUnit</code>
 <code>Mockito</code>
-<code>Jest</code>
 <code>Vitest</code>
 
 </td>
@@ -211,6 +245,7 @@ Infrastructure project focused on Minecraft server management, automation and de
 <code>OOP</code>
 <code>SOLID</code>
 <code>Clean Architecture</code>
+<code>Hexagonal Architecture</code>
 <code>Design Patterns</code>
 <code>DDD</code>
 
@@ -229,6 +264,7 @@ Infrastructure project focused on Minecraft server management, automation and de
 <code>IntelliJ IDEA</code>
 <code>VS Code</code>
 <code>pnpm</code>
+<code>Turborepo</code>
 
 </td>
 
