@@ -8,8 +8,8 @@ Building **Minecraft software, backend systems and infrastructure projects** wit
 
 <br/>
 
-<a href="https://modrinth.com/organization/kizio-labs">
-<img src="https://img.shields.io/badge/Modrinth-Kizio%20Labs-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" />
+<a href="https://modrinth.com/user/kizio">
+<img src="https://img.shields.io/badge/Modrinth-kizio-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" />
 </a>
 <a href="https://github.com/Kizio806">
 <img src="https://img.shields.io/badge/GitHub-Kizio806-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -38,7 +38,7 @@ I focus on:
 - developer-friendly tools and management CLIs
 - containerized and self-hosted infrastructure
 
-I am the creator of **Kizio Labs**, an open-source organization and project group focused on Minecraft software, server tools, and developer utilities.
+I publish my Minecraft software, server tools, and developer utilities on Modrinth as an individual creator.
 
 ---
 
@@ -310,8 +310,8 @@ Interested in collaborating on **open-source software, Minecraft development and
 
 <br/>
 
-<a href="https://modrinth.com/organization/kizio-labs">
-<img src="https://img.shields.io/badge/Modrinth-Kizio%20Labs-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" />
+<a href="https://modrinth.com/user/kizio">
+<img src="https://img.shields.io/badge/Modrinth-kizio-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" />
 </a>
 <a href="https://github.com/Kizio806">
 <img src="https://img.shields.io/badge/GitHub-Kizio806-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
